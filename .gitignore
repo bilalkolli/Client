@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Données temporaires
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vite
+dist/
